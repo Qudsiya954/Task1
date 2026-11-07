@@ -1,0 +1,10 @@
+
+Create another file named exactly `.gitignore` — the filename starts with a dot and has no `.txt` ending. Paste:
+
+```gitignore
+bin/
+obj/
+.vs/
+failure.png
+*.user
+*.suo
